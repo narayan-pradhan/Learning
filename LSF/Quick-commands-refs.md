@@ -40,5 +40,5 @@ This command also reads the LSF_LOGDIR/lsb.events file, so it can take some time
 
 
 
-  [Reconfiguring your cluster with lsadmin and badmin] : <https://www.ibm.com/support/knowledgecenter/SSWRJV_10.1.0/lsf_admin_foundations/reconfig_cluster.html>
-  [Solving common LSF problems] : <https://www.ibm.com/support/knowledgecenter/SSWRJV_10.1.0/lsf_admin/troubleshooting_common_problems_lsf.html> 
+  [Reconfiguring your cluster with lsadmin and badmin]: <https://www.ibm.com/support/knowledgecenter/SSWRJV_10.1.0/lsf_admin_foundations/reconfig_cluster.html>
+  [Solving common LSF problems]: <https://www.ibm.com/support/knowledgecenter/SSWRJV_10.1.0/lsf_admin/troubleshooting_common_problems_lsf.html> 
