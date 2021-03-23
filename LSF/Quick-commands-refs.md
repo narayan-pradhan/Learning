@@ -36,9 +36,16 @@ This command also reads the LSF_LOGDIR/lsb.events file, so it can take some time
 ## Useful links
 - [Reconfiguring your cluster with lsadmin and badmin]
 - [Solving common LSF problems]
-
+- [LSF error messages]
+- [Troubleshooting and Error Messages]
+- [Working with Hosts]
+- [Hosts]
 
 
 
   [Reconfiguring your cluster with lsadmin and badmin]: <https://www.ibm.com/support/knowledgecenter/SSWRJV_10.1.0/lsf_admin_foundations/reconfig_cluster.html>
   [Solving common LSF problems]: <https://www.ibm.com/support/knowledgecenter/SSWRJV_10.1.0/lsf_admin/troubleshooting_common_problems_lsf.html> 
+  [LSF error messages]: <https://www.ibm.com/support/knowledgecenter/SSWRJV_10.1.0/lsf_admin/troubleshooting_error_messages_lsf.html>
+  [Troubleshooting and Error Messages]: <http://sunray2.mit.edu/kits/platform-lsf/7.0.6/1/guides/kit_lsf_guide_source/admin/troubleshooting.html>
+  [Working with Hosts]: <http://sunray2.mit.edu/kits/platform-lsf/7.0.6/1/guides/kit_lsf_guide_source/admin/manage_hosts.html#wp256148>
+  [Hosts]: <https://www.ibm.com/support/knowledgecenter/SSWRJV_10.1.0/lsf_users_guide/hosts_about.html>
