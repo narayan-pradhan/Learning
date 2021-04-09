@@ -18,6 +18,7 @@ Specify which hosts a job can run on.
 To indicate that a job must run on one of the specified hosts, use the bsub -m "hostA hostB ..." option.
 For example:
 >bsub -m "hostA hostD hostB" myjob
+
 Running interactive job with lsf
 >bsub -I -m "hostname" "command"
 
