@@ -30,3 +30,6 @@ create mode 100644 db/migrate/20090223104419_create_avatars.rb
 create mode 100644 test/functional/models/avatar_test.rb
 create mode 100644 test/unit/models/avatar_test.rb
 
+# - [squashing commits with rebase]
+
+[squashing commits with rebase]: <http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html>
