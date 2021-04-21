@@ -34,9 +34,10 @@ create mode 100644 test/unit/models/avatar_test.rb
 
 Squashing commits and rebase from development to your local branch 
   
-```git fetch
+```sh 
+git fetch
 git fetch origin development:development
-git rebase -i development```
+git rebase -i development 
+```
 
-
-[squashing commits with rebase]: <http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html>
+  [squashing commits with rebase]: <http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html>
