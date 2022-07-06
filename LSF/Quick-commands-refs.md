@@ -28,11 +28,11 @@ Running interactive job with lsf
  If you installed a single-user cluster as a non-root user, log in as primary LSF administrator.
 2. Use the following commands to reconfigure the LSF cluster:
 - Reload modified LSF configuration files and restart lim: 
- \# lsadmin reconfigCopy code
+ \# lsadmin reconfig
 - Reload modified LSF batch configuration files:
-\# badmin reconfigCopy code
+\# badmin reconfig
 - Reload modified LSF batch configuration files and restart mbatchd:
-\# badmin mbdrestartCopy code
+\# badmin mbdrestart
 
 This command also reads the LSF_LOGDIR/lsb.events file, so it can take some time to complete if a lot of jobs are running.
 
